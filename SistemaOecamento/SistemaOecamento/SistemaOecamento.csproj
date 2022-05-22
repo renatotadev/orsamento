@@ -75,6 +75,12 @@
     <Compile Include="View\frmFornecesores.Designer.cs">
       <DependentUpon>frmFornecesores.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\frmOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmOrcamento.Designer.cs">
+      <DependentUpon>frmOrcamento.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\frmProdutos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\frmFornecesores.resx">
       <DependentUpon>frmFornecesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmOrcamento.resx">
+      <DependentUpon>frmOrcamento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\frmProdutos.resx">
       <DependentUpon>frmProdutos.cs</DependentUpon>
