@@ -63,11 +63,29 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\frmFornecesores.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="View\frmFornecesores.Designer.cs">
       <DependentUpon>frmFornecesores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmProdutos.Designer.cs">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUnidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUnidades.Designer.cs">
+      <DependentUpon>frmUnidades.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="frmSistemadeOrcamento.resx">
       <DependentUpon>frmSistemadeOrcamento.cs</DependentUpon>
@@ -81,8 +99,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\frmFornecesores.resx">
       <DependentUpon>frmFornecesores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmProdutos.resx">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUnidades.resx">
+      <DependentUpon>frmUnidades.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

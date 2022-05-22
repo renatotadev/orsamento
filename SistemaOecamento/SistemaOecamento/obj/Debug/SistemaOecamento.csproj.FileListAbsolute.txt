@@ -9,3 +9,10 @@ C:\Orsamento\SistemaOecamento\SistemaOecamento\bin\Debug\SistemaOecamento.exe
 C:\Orsamento\SistemaOecamento\SistemaOecamento\bin\Debug\SistemaOecamento.pdb
 C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.exe
 C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.pdb
+C:\Orsamento\SistemaOecamento\SistemaOecamento\bin\Debug\MySql.Data.dll
+C:\Orsamento\SistemaOecamento\SistemaOecamento\bin\Debug\MySql.Data.xml
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.frmClientes.resources
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.frmFornecesores.resources
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.frmProdutos.resources
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.frmUnidades.resources
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.csproj.CopyComplete
