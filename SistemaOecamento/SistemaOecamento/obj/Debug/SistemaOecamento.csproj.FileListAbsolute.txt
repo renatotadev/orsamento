@@ -16,3 +16,4 @@ C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.f
 C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.frmProdutos.resources
 C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.frmUnidades.resources
 C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.csproj.CopyComplete
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.View.frmOrcamento.resources
