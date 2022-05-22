@@ -1,0 +1,11 @@
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.csproj.AssemblyReference.cache
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.csproj.SuggestedBindingRedirects.cache
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.frmSistemadeOrcamento.resources
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.Properties.Resources.resources
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.csproj.GenerateResource.cache
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.csproj.CoreCompileInputs.cache
+C:\Orsamento\SistemaOecamento\SistemaOecamento\bin\Debug\SistemaOecamento.exe.config
+C:\Orsamento\SistemaOecamento\SistemaOecamento\bin\Debug\SistemaOecamento.exe
+C:\Orsamento\SistemaOecamento\SistemaOecamento\bin\Debug\SistemaOecamento.pdb
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.exe
+C:\Orsamento\SistemaOecamento\SistemaOecamento\obj\Debug\SistemaOecamento.pdb
